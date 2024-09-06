@@ -105,6 +105,10 @@ p {
     transition: 600ms;
 }
 
+.div-sobre-foto {
+    height: 30%;
+}
+
 .div-sobre-foto  img{
     width: 90%;
     border-radius: 50%;
