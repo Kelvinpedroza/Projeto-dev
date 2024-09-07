@@ -39,10 +39,13 @@ h2 {
     font-size: 3.2rem;
     color: rgb(62, 71, 100);
 }
-h3 {
+h3, a {
     font-family: 'Nanum Pen Script',cursive;
     font-size: 2.4rem;
     color: #6e8ce6;
+}
+p > a {
+    text-decoration:none;
 }
 h5 {
     color: #555;
